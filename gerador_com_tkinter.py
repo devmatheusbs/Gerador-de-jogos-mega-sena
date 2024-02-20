@@ -67,4 +67,3 @@ class Interface():
 janela = Interface()
 
 janela.run()
-   
